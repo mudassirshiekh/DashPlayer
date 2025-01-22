@@ -27,6 +27,7 @@
 > 安装与使用指南详见 [Wiki](https://solidspoon.xyz/DashPlayer/home.html)，[官网](https://dash-player.solidspoon.xyz)
 
 # DashPlayer
+## By Mudassir Alam
 
 > 一款专为英语学习打造的视频播放器
 
